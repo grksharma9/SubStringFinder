@@ -3,7 +3,7 @@ import java.util.Set;
 import java.util.HashSet;
 import java.util.TreeSet;
 
-public class HelloWorld {
+public class SubStringFinder {
 
      public static void main(String []args) {
         // create a scanner so we can read the command-line input
